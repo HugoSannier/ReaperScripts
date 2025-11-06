@@ -6,5 +6,5 @@ You can access them through ReaPack : Extension > ReaPack > Import repositories.
 
 Then copy paste this URL to the pop up window. 
 ```xml
-https://raw.githubusercontent.com/HugoSannier/HugoSD-Scripts/refs/heads/master/index.xml
+https://raw.githubusercontent.com/HugoSannier/ReaperScripts/refs/heads/master/index.xml
 ```
